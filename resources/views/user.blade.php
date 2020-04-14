@@ -3,13 +3,15 @@
 @section('section')
 <div class="text-center">
     <div>
-        <img class="rounded-circle imagen-perfil" src="{{asset("img/img.jpg")}}" alt="">
+        <img class="rounded-circle imagen-perfil mt-5" src="{{asset("img/img.jpg")}}" alt="">
     </div>
 
     <div class="mb-5 mt-5  container col-12">
         <div class="row flex-nowrap ">
-            <div class="trabajo col-2 d-flex align-items-center">
-                Marzo 27 - 2020
+            <div class="col-2 d-flex align-items-center trans">
+                <p class="text-center font-weight-bold">
+                    Marzo 27 - 2020
+                </p>  
             </div>
                 <div class="border trabajo col-4">
                     <h2>Programador FrontEnd</h2>
@@ -24,25 +26,31 @@
                          de calidad.
                     </p>
                 </div>
-            <div class="trabajo col-2 d-flex align-items-center">
-                NiCat-GameDev
+            <div class="col-2 d-flex align-items-center trans">
+                <p class="text-center font-weight-bold">
+                  NiCat-GameDev
+                </p>
             </div>
         </div>
     </div>
 
     <div class="mb-5 mt-5 container col-12">
         <div class="row flex-nowrap">
-            <div class="trabajo col-2 d-flex align-items-center">
-                Febrero 18 - 2018
+            <div class="col-2 d-flex align-items-center trans">
+                <p class="text-center font-weight-bold">
+                     Febrero 18 - 2018
+                </p>
             </div>
-                <div class="border trabajo col-8">
+                <div class="border  trabajo col-8">
                     <h2>Soporte Técnico</h2>
                     <p>Reparación y mantenimiento de equipos computacionales y asegurar
                         el buen funcionamiento siguiendo estándares actuales.
                     </p>
                 </div>
-            <div class="trabajo col-2 d-flex align-items-center">
-                Restart Inc.
+            <div class="col-2 d-flex align-items-center trans">
+                <p class="text-center font-weight-bold">
+                    Restart Inc.
+                </p>
             </div>
         </div>
     </div>

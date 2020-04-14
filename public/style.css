@@ -16,6 +16,10 @@ body{
   background-color: lightgrey;
 }
 
+.trans{
+  background-color: lightgrey;
+}
+
 .page-footer{
   background-color: blue;
   color: white;
@@ -42,6 +46,10 @@ header{
   height: 250px;
   width: 40%;
   background-color: white;
+}
+
+.trabajo h2{
+  margin-top: 50px;
 }
 
 .container{

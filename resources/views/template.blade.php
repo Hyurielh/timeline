@@ -18,7 +18,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
     <form class="form-inline">
-    <button href="#!" class="btn btn-outline-white btn-md my-0 ml-sm-2" type="submit"><i class="fas fa-search"></i></button>
+    <button href="#!" class="btn btn-outline-white btn-md my-0 ml-sm-2" type="submit"><i class="text-white fas fa-search"></i></button>
       <div class="md-form my-0">
         <input class="form-control" type="text" placeholder="Search" aria-label="Search">
       </div>
@@ -77,8 +77,8 @@
     <div class="col-md-6 mt-md-0 mt-3">
 
       <!-- Content -->
-      <h5 class="text-uppercase">Footer Content</h5>
-      <p>Here you can use rows and columns to organize your footer content.</p>
+      <h5 class="text-uppercase">Job TimeLine</h5>
+      <p>Muestra tu crecimiento profesional con TimeLine</p>
 
     </div>
     <!-- Grid column -->
@@ -89,20 +89,20 @@
     <div class="col-md-3 mb-md-0 mb-3">
 
       <!-- Links -->
-      <h5 class="text-uppercase">Links</h5>
+      <h5 class="text-uppercase">Social</h5>
 
       <ul class="list-unstyled">
         <li>
-          <a href="#!">Link 1</a>
+          <a href="#!">Facebook</a>
         </li>
         <li>
-          <a href="#!">Link 2</a>
+          <a href="#!">Instagram</a>
         </li>
         <li>
-          <a href="#!">Link 3</a>
+          <a href="#!">Twitter</a>
         </li>
         <li>
-          <a href="#!">Link 4</a>
+          <a href="#!">Contáctanos</a>
         </li>
       </ul>
 
@@ -113,20 +113,17 @@
     <div class="col-md-3 mb-md-0 mb-3">
 
       <!-- Links -->
-      <h5 class="text-uppercase">Links</h5>
+      <h5 class="text-uppercase">Información</h5>
 
       <ul class="list-unstyled">
         <li>
-          <a href="#!">Link 1</a>
+          <a href="#!">Blog</a>
         </li>
         <li>
-          <a href="#!">Link 2</a>
+          <a href="#!">GitHub</a>
         </li>
         <li>
-          <a href="#!">Link 3</a>
-        </li>
-        <li>
-          <a href="#!">Link 4</a>
+          <a href="#!">Linkding</a>
         </li>
       </ul>
 
