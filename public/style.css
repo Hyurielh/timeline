@@ -1,0 +1,49 @@
+.navbar{
+  background-color: blue;
+}
+
+.nav a{
+  background-color: blue;
+  color: white;
+}
+
+ul{
+  background-color: blue;
+  margin-top: 0px;
+}
+
+body{
+  background-color: lightgrey;
+}
+
+.page-footer{
+  background-color: blue;
+  color: white;
+}
+.page-footer a{
+  color: white;
+}
+
+header{
+  background-color: blue;
+}
+
+.fechas{
+  margin-left: 50px;
+}
+
+/*USER VIEW*/
+.imagen-perfil{
+  height: 250px;
+  width: 250px;
+}
+
+.trabajo{
+  height: 250px;
+  width: 40%;
+  background-color: white;
+}
+
+.container{
+  background-color: gray;
+}
